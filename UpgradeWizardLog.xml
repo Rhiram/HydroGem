@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\practicaFinal.csproj" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\menu.Master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\menu.Master" />
+  <event action="Analyze" type="Success" name="menu.Master" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\menu.Master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\impresion.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\impresion.aspx" />
+  <event action="Analyze" type="Success" name="impresion.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\impresion.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\inicio.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\inicio.aspx" />
+  <event action="Analyze" type="Success" name="inicio.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\inicio.aspx" />
+  <event action="Analyze" type="Success" name="rptSoporte.resx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\reporte\rptSoporte.resx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\reportes.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\reportes.aspx" />
+  <event action="Analyze" type="Success" name="reportes.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\reportes.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\soporte\agregarSolicitud.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\soporte\agregarSolicitud.aspx" />
+  <event action="Analyze" type="Success" name="agregarSolicitud.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\soporte\agregarSolicitud.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\soporte\vistaSoporte.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\soporte\vistaSoporte.aspx" />
+  <event action="Analyze" type="Success" name="vistaSoporte.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\soporte\vistaSoporte.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\agregarUsuario.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\agregarUsuario.aspx" />
+  <event action="Analyze" type="Success" name="agregarUsuario.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\agregarUsuario.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\login.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\login.aspx" />
+  <event action="Analyze" type="Success" name="login.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\login.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\logout.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\logout.aspx" />
+  <event action="Analyze" type="Success" name="logout.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\logout.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\usuariosVista.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\usuariosVista.aspx" />
+  <event action="Analyze" type="Success" name="usuariosVista.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\usuarios\usuariosVista.aspx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.Release.config" />
+  <event action="Analyze" type="Success" name="practicaFinal" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\practicaFinal.csproj" />
+  <event action="Analyze" type="Success" name="practicaFinal" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal.sln" />
+  <event action="Backup" type="Success" name="practicaFinal" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\practicaFinal.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\practicaFinal.csproj" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\impresion.aspx" />
+  <event action="Upgrade" type="Success" name="impresion.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\impresion.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\reportes.aspx" />
+  <event action="Upgrade" type="Success" name="reportes.aspx" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\paginas\reportes.aspx" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Upgrade" type="Success" name="Http Handlers" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Upgrade" type="Success" name="Handlers (IIS7+)" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Upgrade" type="Success" name="Web.config" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\Web.config" />
+  <event action="Upgrade" type="Success" name="practicaFinal" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal\practicaFinal.csproj" />
+  <event action="Upgrade" type="Success" name="practicaFinal" path="C:\Users\Samuel Juvera\Desktop\soporte\soporte\practicaFinal.sln" />
+</log>

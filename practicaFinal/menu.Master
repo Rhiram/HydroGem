@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="menu.master.cs" Inherits="practicaFinal.menu" %>
+
+<%@ Register assembly="Telerik.Web.UI" namespace="Telerik.Web.UI" tagprefix="telerik" %>
+
+<!DOCTYPE html>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+ 
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <link href="style/estilosMaster.css" rel="stylesheet" />
+
+    <script>
+        function muestraEstado() {
+            var url;
+            var index;
+            url = document.URL;
+            index = url.indexOf("edo=")
+            //si es -1 es que es al primera ves que se carga, o no viene del redireccioanmeinto del agregado de proyecto
+            if (index != -1) {
+                var msg = url.substring(index + 4);
+                msg = replaceAll(msg,"_", " ");
+                alert(msg);
+
+            }
+        }
+        function replaceAll(text, busca, reemplaza) {
+            while (text.toString().indexOf(busca) != -1)
+                text = text.toString().replace(busca, reemplaza);
+            return text;
+        }
+
+    </script>
+
+</head>
+<body  onload ="muestraEstado()" style="background-image:url(../../imagenes/agua.jpg)">
+    <div class="container-fluid">
+        <form id="form1" runat="server" > 
+             <!--cabeza-->
+            <header class="row">
+                <div class="col-xs-12" style="background-color:skyblue;">
+                    <label style="color:white;font-size:300%"> HIDROGEM  La Mejor Solucion En Servicio de Agua Potable</label>
+                  <%--  <img src="../../imagenes/encabezado.jpg" alt="jys soluciones" class="foto_encabezado"/>--%>
+                </div>
+            </header>
+            <!--fin cabeza-->
+            <!--menu de navegacón-->
+        
+            <nav class="navbar navbar-default">
+              <div class="container-fluid">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>                        
+                  </button>
+                  
+
+                    <a class="navbar-brand" href="/paginas/inicio.aspx">
+                        <asp:Label ID="nombre_usuario" runat="server" Text="Label"></asp:Label>
+                    </a>
+                  
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                  <ul class="nav navbar-nav">
+                      <!--menu dinamico-->
+                    <asp:Literal ID="menu_dinamico" runat="server"></asp:Literal>
+                    
+                  </ul>
+                  <ul class="nav navbar-nav navbar-right">
+                      <asp:Literal ID="log_dinamico" runat="server"></asp:Literal> 
+                  </ul>
+                </div>
+              </div>
+            </nav>        
+            <!--fin menu de navegacón-->    
+        
+            <!--contenido-->            
+            <section>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+           
+                </asp:ContentPlaceHolder> 
+            </section>  
+            <!--fin contenido-->    
+        
+            <!--footer-->
+            <footer class="row">
+                <div class="col-xs-12">
+                    &nbsp;</div>
+            </footer>    
+            <!--fin footer--> 
+            </form>
+        </div>
+
+        <!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+</html>

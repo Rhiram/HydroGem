@@ -1,0 +1,30 @@
+/*formato de pagina*/
+
+body 
+{
+    background-image: url("logoRed.jpg");
+    background-color: black;
+}
+header 
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: center;
+	
+}
+
+.foto_encabezado 
+{
+    width: 100%;
+}
+
+section 
+{
+
+    margin-top: 0px;
+    margin-bottom:1%;
+   
+}
